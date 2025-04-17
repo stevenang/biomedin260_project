@@ -1,0 +1,21 @@
+participant_id,gender_std,age,age_group,diagnosis_status,source_folder,adhd_index,adhd_measure,verbal_iq,performance_iq,handedness
+23012,male,11.33,child,ADHD,OHSU,,,,,Right
+16074,male,18.49,adult,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+10126,male,9.7,child,ADHD,NYU,79.0,,83.0,96.0,0.91
+4060823,male,11.8,child,ADHD,NYU,65.0,,85.0,107.0,0.86
+3624598,male,14.58,adolescent,Typical Development,Peking_3,21.0,ADHD Rating Scale IV (ADHD-RS),140.0,121.0,Right
+3993793,male,10.33,child,Typical Development,Peking_2,36.0,ADHD Rating Scale IV (ADHD-RS),128.0,112.0,Right
+27011,male,20.82,adult,ADHD,NeuroIMAGE,,,,,Right
+1093743,male,11.92,child,Typical Development,Peking_2,20.0,ADHD Rating Scale IV (ADHD-RS),125.0,120.0,Right
+1481430,male,11.92,child,Typical Development,OHSU,,,,,Right
+16050,male,15.78,adolescent,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+21030,male,10.74,child,ADHD,NYU,77.0,,110.0,100.0,0.2
+15021,male,7.52,child,Typical Development,WashU,,,,,Right
+23026,male,8.33,child,Typical Development,OHSU,,,,,Right
+10103,male,9.59,child,ADHD,NYU,63.0,,106.0,104.0,0.24
+21009,male,11.65,child,ADHD,NYU,77.0,,104.0,109.0,0.82
+1023964,male,8.29,child,ADHD,NYU,60.0,,115.0,125.0,0.57
+21029,male,10.73,child,Typical Development,NYU,49.0,,120.0,117.0,-0.31
+1418396,male,8.67,child,Typical Development,OHSU,,,,,Right
+7333005,male,9.0,child,ADHD,OHSU,,,,,Right
+3302025,male,9.0,child,Typical Development,OHSU,,,,,Right
