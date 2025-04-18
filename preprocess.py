@@ -32,6 +32,7 @@ def remove_first_line():
 
         if lines:
             with open(SUBJECTS_FILE, 'w') as file:
+                print(f"Remove {lines[0]} from {SUBJECTS_FILE}")
                 file.writelines(lines[1:])
             return True
         return False
@@ -47,6 +48,14 @@ def run_command():
         print("No subject_id left in file.")
         return None
 
+    id_file = "/Users/stevenang/PycharmProjects/adhd/data/id.txt"
+    # Check if the file exists, then delete it
+    if os.path.exists(id_file):
+        os.remove(id_file)
+
+    with open(id_file, 'w') as file:
+        file.write(subject_id)
+
     # Define command as a list of arguments (important for subprocess)
     commands = [
         "/Users/stevenang/PycharmProjects/adhd/preprocessing.sh",
@@ -55,7 +64,7 @@ def run_command():
         "--output-dir",
         "/Users/stevenang/PycharmProjects/adhd/preprocessed_data",
         "--subjects",
-        "/Users/stevenang/PycharmProjects/adhd/data/all_participant_ids.txt",
+        id_file,
         "-p",
         "8"
     ]
