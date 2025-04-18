@@ -1,0 +1,61 @@
+participant_id,gender_std,age,age_group,diagnosis_status,source_folder,adhd_index,adhd_measure,verbal_iq,performance_iq,handedness
+21016,male,16.55,adolescent,Typical Development,NYU,47.0,,114.0,109.0,0.81
+10036,male,9.45,child,Typical Development,NYU,50.0,,86.0,86.0,0.47
+10086,male,15.83,adolescent,ADHD,NYU,73.0,,109.0,93.0,0.63
+16083,male,18.86,adult,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+10030,male,12.41,adolescent,ADHD,NYU,75.0,,100.0,105.0,0.43
+10071,male,14.09,adolescent,ADHD,NYU,74.0,,80.0,88.0,0.83
+1127915,male,12.44,adolescent,Typical Development,NYU,42.0,,117.0,126.0,0.21
+2497695,male,11.61,child,ADHD,NYU,82.0,,107.0,123.0,0.6
+2419464,male,20.04,adult,Typical Development,NeuroIMAGE,,,,,Right
+16025,male,12.71,adolescent,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+2427434,male,8.08,child,Typical Development,OHSU,,,,,Right
+1206380,male,9.17,child,ADHD,OHSU,,,,,Right
+15025,male,7.75,child,Typical Development,WashU,,,,,Right
+16088,male,19.66,adult,Typical Development,Pittsburgh,,,117.0,118.0,Right
+16065,male,17.84,adult,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+3684229,male,8.83,child,ADHD,OHSU,,,,,Right
+2884672,male,12.83,adolescent,ADHD,Peking_2,41.0,ADHD Rating Scale IV (ADHD-RS),117.0,100.0,Right
+21032,male,8.84,child,ADHD,NYU,63.0,,138.0,101.0,0.81
+15056,male,10.97,child,Typical Development,WashU,,,,,Right
+10041,male,9.22,child,ADHD,NYU,62.0,,109.0,99.0,0.43
+10104,male,13.35,adolescent,ADHD,NYU,61.0,,127.0,114.0,0.76
+3542588,male,8.05,child,ADHD,NYU,74.0,,98.0,94.0,1.0
+16068,male,17.96,adult,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+15050,male,11.43,child,Typical Development,WashU,,,,,Right
+6568351,male,8.1,child,Typical Development,NYU,52.0,,102.0,99.0,0.05
+23000,male,10.42,child,ADHD,OHSU,,,,,Right
+2310449,male,10.33,child,Typical Development,Peking_2,33.0,ADHD Rating Scale IV (ADHD-RS),125.0,108.0,Right
+16033,male,13.68,adolescent,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+10101,male,14.2,adolescent,ADHD,NYU,79.0,,107.0,79.0,0.75
+21031,male,7.35,child,ADHD,NYU,86.0,,115.0,97.0,1.0
+21018,male,11.73,child,Typical Development,NYU,,,113.0,116.0,0.44
+27022,male,16.65,adolescent,Typical Development,NeuroIMAGE,,,,,Right
+10005,male,11.92,child,ADHD,NYU,63.0,,98.0,118.0,0.68
+1588809,male,20.08,adult,Typical Development,NeuroIMAGE,,,,,Right
+4079254,male,10.19,child,Typical Development,NYU,43.0,,119.0,106.0,0.8
+2230510,male,9.17,child,ADHD,NYU,72.0,,98.0,93.0,0.58
+16077,male,18.72,adult,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+1794770,male,11.75,child,Typical Development,Peking_3,39.0,ADHD Rating Scale IV (ADHD-RS),87.0,85.0,Right
+3349205,male,10.21,child,ADHD,NYU,75.0,,104.0,97.0,0.2
+4016887,male,9.08,child,ADHD,OHSU,,,,,Right
+10054,male,17.83,adult,Typical Development,NYU,53.0,,-999.0,-999.0,-999.0
+16004,male,10.49,child,Typical Development,Pittsburgh,,,95.0,105.0,Right
+2947936,male,8.5,child,Typical Development,OHSU,,,,,Right
+23006,male,9.25,child,Typical Development,OHSU,,,,,Right
+10027,male,8.28,child,ADHD,NYU,56.0,,100.0,92.0,0.91
+2735617,male,11.42,child,Typical Development,NYU,45.0,,122.0,126.0,0.83
+27034,male,13.35,adolescent,ADHD,NeuroIMAGE,,,,,Right
+10029,male,13.09,adolescent,ADHD,NYU,73.0,,126.0,121.0,0.43
+16056,male,16.28,adolescent,Typical Development,Pittsburgh,,,-999.0,-999.0,Right
+3812101,male,7.83,child,Typical Development,OHSU,,,,,Right
+10111,male,7.74,child,Typical Development,NYU,41.0,,108.0,88.0,-999.0
+2773205,male,8.38,child,ADHD,NYU,83.0,,98.0,120.0,0.64
+7407032,male,13.42,adolescent,Typical Development,Peking_2,26.0,ADHD Rating Scale IV (ADHD-RS),126.0,111.0,Right
+16060,male,17.16,adult,Typical Development,Pittsburgh,,,122.0,119.0,Right
+2620872,male,8.92,child,ADHD,OHSU,,,,,Right
+10043,male,8.16,child,Typical Development,NYU,42.0,,125.0,99.0,0.36
+15037,male,14.43,adolescent,Typical Development,WashU,,,,,Right
+15034,male,10.28,child,Typical Development,WashU,,,,,Right
+10010,male,11.32,child,Typical Development,NYU,45.0,,141.0,133.0,0.73
+10078,male,8.19,child,ADHD,NYU,67.0,,113.0,125.0,-0.04

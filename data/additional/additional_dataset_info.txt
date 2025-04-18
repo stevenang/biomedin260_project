@@ -1,0 +1,61 @@
+ADDITIONAL ADHD200 MACHINE LEARNING DATASET
+=======================================
+
+Total samples: 300
+Training samples: 180 (60%)
+Validation samples: 60 (20%)
+Test samples: 60 (20%)
+
+All participants have anatomical images available in: /Users/stevenang/Downloads/dataset/anat
+
+These participants are all different from those in: /Users/stevenang/PycharmProjects/adhd/data/all_participant_ids.txt
+
+DATASET DISTRIBUTION
+-------------------
+
+Diagnosis distribution:
+  Typical Development: 178 (59.3%)
+  ADHD: 122 (40.7%)
+
+Gender distribution:
+  male: 300 (100.0%)
+
+Age group distribution:
+  child: 153 (51.0%)
+  adolescent: 108 (36.0%)
+  adult: 39 (13.0%)
+
+CROSS-TABULATION
+--------------
+
+Diagnosis by Gender:
+  ADHD:
+    male: 122
+  Typical Development:
+    male: 178
+
+Diagnosis by Age Group:
+  ADHD:
+    child: 70
+    adolescent: 42
+    adult: 10
+  Typical Development:
+    child: 83
+    adolescent: 66
+    adult: 29
+
+FEATURES
+--------
+
+Columns included in the dataset:
+  - participant_id
+  - gender_std
+  - age
+  - age_group
+  - diagnosis_status
+  - source_folder
+  - adhd_index
+  - adhd_measure
+  - verbal_iq
+  - performance_iq
+  - handedness
