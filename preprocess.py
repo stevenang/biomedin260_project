@@ -15,7 +15,7 @@ def get_first_command():
     """Read the first line from the commands file."""
     try:
         with open(SUBJECTS_FILE, 'r') as file:
-            lines = file.readlines()
+            lines = sorted(file.readlines())
             if not lines:
                 return None
             return lines[0].strip()
@@ -28,7 +28,7 @@ def remove_first_line():
     """Remove the first line from the commands file."""
     try:
         with open(SUBJECTS_FILE, 'r') as file:
-            lines = file.readlines()
+            lines = sorted(file.readlines())
 
         if lines:
             with open(SUBJECTS_FILE, 'w') as file:
